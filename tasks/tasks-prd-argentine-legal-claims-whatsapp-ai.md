@@ -20,13 +20,13 @@
 
 ## Tasks
 
-- [ ] 1.0 Create Landing Page with WhatsApp CTA
+- [x] 1.0 Create Landing Page with WhatsApp CTA
   - [x] 1.1 Design and build main landing page with hero section highlighting claim filing pain points
   - [x] 1.2 Add value proposition section explaining the WhatsApp-based solution
   - [x] 1.3 Create "How it Works" section with 3-step process visualization
   - [x] 1.4 Implement prominent WhatsApp CTA button
   - [x] 1.5 Ensure mobile-responsive design for Argentine mobile-first users
-  - [ ] 1.6 Deploy landing page to hosting platform
+  - [x] 1.6 Deploy landing page to hosting platform
 
 - [ ] 2.0 Setup WhatsApp Integration and AI Intake Bot
   - [ ] 2.1 Research and choose WhatsApp integration method (Business API vs unofficial solutions for POC)
