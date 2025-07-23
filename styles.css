@@ -234,7 +234,15 @@ body {
 }
 
 .whatsapp-icon {
-    font-size: 20px;
+    width: 20px;
+    height: 20px;
+    fill: currentColor;
+    flex-shrink: 0;
+}
+
+.whatsapp-icon.large {
+    width: 24px;
+    height: 24px;
 }
 
 .btn-arrow {
@@ -647,7 +655,9 @@ body {
 }
 
 .floating-icon {
-    font-size: 18px;
+    width: 18px;
+    height: 18px;
+    fill: currentColor;
     flex-shrink: 0;
 }
 
